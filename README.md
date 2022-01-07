@@ -7,5 +7,5 @@ To get started with this course, clone this repo and follow these commands:
 2. Run `npm run start` to start the project
 3. Start coding!
 
-### **Questions?**
-Live Link: https://buildspace-freenft.netlify.app/
+### **Link**
+https://buildspace-freenft.netlify.app/
